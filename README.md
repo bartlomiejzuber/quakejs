@@ -105,7 +105,7 @@ You can now run the server with
 node build/ioq3ded.js +set fs_game baseq3 +set dedicated 2 +exec server.cfg
 ```
 
-and you should be able to join at http://www.quakejs.com/play?connect%20SERVER_IP:27960, replacing `SERVER_IP` with the IP of your server.
+and you should be able to join at http://www.quakejs.com/play?connect%20SERVER_IP:2052, replacing `SERVER_IP` with the IP of your server.
 
 ## Running a content server
 
